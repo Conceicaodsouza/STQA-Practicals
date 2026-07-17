@@ -1,0 +1,13 @@
+</> JSON
+{
+  "name": "Java Selenium",
+
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+
+  "features": {
+
+    "ghcr.io/devcontainers/features/maven:1": {}
+
+  }
+
+}
